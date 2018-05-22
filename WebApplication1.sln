@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{30381B6C-E16D-43A0-B560-42BAFD6A5282}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerCustomHeadersDemo", "WebApplication1\SwaggerCustomHeadersDemo.csproj", "{30381B6C-E16D-43A0-B560-42BAFD6A5282}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
